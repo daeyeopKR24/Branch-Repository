@@ -110,3 +110,7 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+
+
+#고치기 귀찮누
+#도한이 방 가서 놀아야지

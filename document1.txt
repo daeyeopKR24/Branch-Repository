@@ -37,3 +37,5 @@ print(quicksort(0, len(example)-1, example))
 #ahu
 #ham
 #배고파
+#밥 먹고 싶다
+#배고파 뒤지겠따
