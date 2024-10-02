@@ -1,4 +1,5 @@
-#어휴의 수장 윤지용
+
+#어휴어휴
 #include <stdio.h>
 
 void main (void)
