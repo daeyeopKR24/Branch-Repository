@@ -1,4 +1,5 @@
-#흠 
+#배고파
+
 #include <stdio.h>
 
 void main (void)
