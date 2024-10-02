@@ -1,4 +1,4 @@
-#흠 
+#어휴의 수장 윤지용
 #include <stdio.h>
 
 void main (void)
